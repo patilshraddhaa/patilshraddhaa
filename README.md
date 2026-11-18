@@ -20,14 +20,6 @@ I'm a product designer working where design, technology and human behavior meet.
 
 <img src="assets/tools.svg" width="100%" alt="Design: Figma, Framer, Adobe Creative Cloud, AutoCAD, SketchUp. Build: TypeScript, React, Next.js, Tailwind, Python. AI: Claude Code, Codex. Ship: GitHub Actions, Vercel, Docker, Playwright.">
 
-### Writing
-
-<!-- writing:start -->
-| | title | published |
-|:--|:--|--:|
-| `01` | [The Designer’s Job Didn’t Disappear. It Just Got Harder to Hide From.](https://medium.com/@patilshraddhaa21/the-designers-job-didn-t-disappear-it-just-got-harder-to-hide-from-1c8cc1f3fd54) | `Jun 3, 2026` |
-| `02` | [Most designers are using AI. Few are designing AI-natively.](https://medium.com/@patilshraddhaa21/most-designers-are-using-ai-few-are-designing-ai-natively-c1827215df15) | `Jun 2, 2026` |
-<!-- writing:end -->
 
 ### Connect
 
