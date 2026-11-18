@@ -31,4 +31,3 @@ I'm a product designer working where design, technology and human behavior meet.
 
 <br>
 
-<sub>The header, project cards and writing update daily from live GitHub and Medium data: <a href="scripts/render.py">render.py</a> · <a href=".github/workflows/render.yml">workflow</a></sub>
